@@ -1,0 +1,10 @@
+Ruta / :
+Muestra el mensaje "Servidor Activo" indicando que el 
+servidor está funcionando correctamente.
+
+Ruta /saludo :
+Mostro el mensaje "Hola Comunidad"
+
+Ruta /mensaje/juan :
+Indica el nombre puesto en la URL y con el mensaje "Hola juan"
+en pantalla o el nombre que uno quiera colocar
